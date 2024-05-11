@@ -4,6 +4,7 @@
     Console.WriteLine("1. Выполнить операцию '+'");
     Console.WriteLine("2. Выполнить операцию '-'");
     Console.WriteLine("3. Выполнить операцию '*'");
+    Console.WriteLine("4. Выполнить операцию '/'");
     Console.WriteLine("5. Выйти из программы");
 
     Console.Write("Выберите действие (1-5): ");
@@ -37,6 +38,15 @@
             int e = int.Parse(Console.ReadLine());
 
             Console.WriteLine($"Результат: {f * e}");
+            break;
+
+        case 4:
+            Console.WriteLine("Введите число А: ");
+            int k = int.Parse(Console.ReadLine());
+            Console.WriteLine("Введите число В: ");
+            int m = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($"Результат: {k / m}");
             break;
 
         case 5:
