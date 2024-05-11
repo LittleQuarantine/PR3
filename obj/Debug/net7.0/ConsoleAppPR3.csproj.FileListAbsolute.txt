@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\PR3\bin\Debug\net7.0\ConsoleAppPR3.exe
+C:\Users\student\Desktop\PR3\bin\Debug\net7.0\ConsoleAppPR3.deps.json
+C:\Users\student\Desktop\PR3\bin\Debug\net7.0\ConsoleAppPR3.runtimeconfig.json
+C:\Users\student\Desktop\PR3\bin\Debug\net7.0\ConsoleAppPR3.dll
+C:\Users\student\Desktop\PR3\bin\Debug\net7.0\ConsoleAppPR3.pdb
+C:\Users\student\Desktop\PR3\obj\Debug\net7.0\ConsoleAppPR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\PR3\obj\Debug\net7.0\ConsoleAppPR3.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\PR3\obj\Debug\net7.0\ConsoleAppPR3.AssemblyInfo.cs
+C:\Users\student\Desktop\PR3\obj\Debug\net7.0\ConsoleAppPR3.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\PR3\obj\Debug\net7.0\ConsoleAppPR3.dll
+C:\Users\student\Desktop\PR3\obj\Debug\net7.0\refint\ConsoleAppPR3.dll
+C:\Users\student\Desktop\PR3\obj\Debug\net7.0\ConsoleAppPR3.pdb
+C:\Users\student\Desktop\PR3\obj\Debug\net7.0\ConsoleAppPR3.genruntimeconfig.cache
+C:\Users\student\Desktop\PR3\obj\Debug\net7.0\ref\ConsoleAppPR3.dll

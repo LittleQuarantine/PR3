@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ConsoleAppPR3/1.0.0": {
+        "runtime": {
+          "ConsoleAppPR3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppPR3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
